@@ -2,7 +2,7 @@ class ThriftAngejia < Formula
   desc "Framework for scalable cross-language services development (maintained by by angejia)"
   homepage "https://github.com/angejia/thrift/tree/release"
   url "https://github.com/angejia/thrift.git",
-    :tag => "0.9.3.1"
+    :tag => "0.9.3.4"
 
   option "with-haskell", "Install Haskell binding"
   option "with-erlang", "Install Erlang binding"
